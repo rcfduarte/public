@@ -5,7 +5,7 @@ source: https://rcfduarte.github.io/publication/neuronal_memory_2020/
 journal: PNAS
 author: Hartmut Fitz, et al.
 ---
-
+![](https://rcfduarte.github.io/publication/neuronal_memory_2020/featured.png)
 # Neuronal spike-rate adaptation supports working memory in language processing
 
 ---
