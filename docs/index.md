@@ -1,11 +1,2 @@
-# Obsidian Notes
+Welcome to my (public) second brain. You'll find out all [[about]] me, the stuff I'm interested in, my published research, as well as some ramblings. 
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
